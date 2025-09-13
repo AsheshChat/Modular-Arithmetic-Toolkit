@@ -1,4 +1,4 @@
-# ➗ Modular Arithmetic Toolkit in C++ (Advanced Project)
+# ➗ Modular Arithmetic Toolkit in C++ (Advanced Level)
 
 A **C++ toolkit** for performing modular arithmetic operations, including **modular exponentiation** and **modular inverse** calculations using the extended Euclidean algorithm.  
 Includes sample calculations to demonstrate usage.  
